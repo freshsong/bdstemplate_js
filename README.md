@@ -1,0 +1,1 @@
+# bdstemplate_js
